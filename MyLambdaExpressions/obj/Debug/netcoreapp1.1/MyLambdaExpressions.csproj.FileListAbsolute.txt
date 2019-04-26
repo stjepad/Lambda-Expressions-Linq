@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\bin\Debug\netcoreapp1.1\MyLambdaExpressions.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\bin\Debug\netcoreapp1.1\MyLambdaExpressions.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\bin\Debug\netcoreapp1.1\MyLambdaExpressions.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\bin\Debug\netcoreapp1.1\MyLambdaExpressions.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\bin\Debug\netcoreapp1.1\MyLambdaExpressions.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\obj\Debug\netcoreapp1.1\MyLambdaExpressions.csprojResolveAssemblyReference.cache
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\obj\Debug\netcoreapp1.1\MyLambdaExpressions.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\obj\Debug\netcoreapp1.1\MyLambdaExpressions.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\MyLambdaExpressions\obj\Debug\netcoreapp1.1\MyLambdaExpressions.pdb
