@@ -1,0 +1,5 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Aggregation\obj\Debug\Aggregation.pdb

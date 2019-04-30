@@ -1,0 +1,5 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Partitioning\bin\Debug\Partitioning.exe.config
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Partitioning\bin\Debug\Partitioning.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Partitioning\bin\Debug\Partitioning.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Partitioning\obj\Debug\Partitioning.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Partitioning\obj\Debug\Partitioning.pdb

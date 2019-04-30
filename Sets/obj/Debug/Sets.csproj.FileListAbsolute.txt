@@ -1,0 +1,6 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Sets\bin\Debug\Sets.exe.config
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Sets\bin\Debug\Sets.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Sets\bin\Debug\Sets.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Sets\obj\Debug\Sets.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Sets\obj\Debug\Sets.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Sets\obj\Debug\Sets.csprojResolveAssemblyReference.cache

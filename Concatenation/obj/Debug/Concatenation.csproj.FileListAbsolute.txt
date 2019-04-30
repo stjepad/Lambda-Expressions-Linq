@@ -1,0 +1,5 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Concatenation\bin\Debug\Concatenation.exe.config
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Concatenation\bin\Debug\Concatenation.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Concatenation\bin\Debug\Concatenation.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Concatenation\obj\Debug\Concatenation.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Concatenation\obj\Debug\Concatenation.pdb

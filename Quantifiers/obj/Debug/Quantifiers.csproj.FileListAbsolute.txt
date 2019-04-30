@@ -1,0 +1,5 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Quantifiers\bin\Debug\Quantifiers.exe.config
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Quantifiers\obj\Debug\Quantifiers.exe
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Quantifiers\obj\Debug\Quantifiers.pdb
