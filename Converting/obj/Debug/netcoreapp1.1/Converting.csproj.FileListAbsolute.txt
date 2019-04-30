@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\bin\Debug\netcoreapp1.1\Converting.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\bin\Debug\netcoreapp1.1\Converting.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\bin\Debug\netcoreapp1.1\Converting.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\bin\Debug\netcoreapp1.1\Converting.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\bin\Debug\netcoreapp1.1\Converting.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\obj\Debug\netcoreapp1.1\Converting.csprojResolveAssemblyReference.cache
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\obj\Debug\netcoreapp1.1\Converting.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\obj\Debug\netcoreapp1.1\Converting.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\Converting\obj\Debug\netcoreapp1.1\Converting.pdb

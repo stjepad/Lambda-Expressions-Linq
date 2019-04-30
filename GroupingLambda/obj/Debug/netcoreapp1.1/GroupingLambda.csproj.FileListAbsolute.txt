@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\bin\Debug\netcoreapp1.1\GroupingLambda.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\bin\Debug\netcoreapp1.1\GroupingLambda.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\bin\Debug\netcoreapp1.1\GroupingLambda.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\bin\Debug\netcoreapp1.1\GroupingLambda.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\bin\Debug\netcoreapp1.1\GroupingLambda.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\obj\Debug\netcoreapp1.1\GroupingLambda.csprojResolveAssemblyReference.cache
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\obj\Debug\netcoreapp1.1\GroupingLambda.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\obj\Debug\netcoreapp1.1\GroupingLambda.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\GroupingLambda\obj\Debug\netcoreapp1.1\GroupingLambda.pdb

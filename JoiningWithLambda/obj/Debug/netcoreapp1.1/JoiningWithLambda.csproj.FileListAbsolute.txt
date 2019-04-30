@@ -1,0 +1,9 @@
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\bin\Debug\netcoreapp1.1\JoiningWithLambda.deps.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\bin\Debug\netcoreapp1.1\JoiningWithLambda.runtimeconfig.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\bin\Debug\netcoreapp1.1\JoiningWithLambda.runtimeconfig.dev.json
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\bin\Debug\netcoreapp1.1\JoiningWithLambda.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\bin\Debug\netcoreapp1.1\JoiningWithLambda.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\obj\Debug\netcoreapp1.1\JoiningWithLambda.AssemblyInfo.cs
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\obj\Debug\netcoreapp1.1\JoiningWithLambda.dll
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\obj\Debug\netcoreapp1.1\JoiningWithLambda.pdb
+C:\Users\wu491hk\Documents\Visual Studio 2017\Projects\MyLambdaExpressions\JoiningWithLambda\obj\Debug\netcoreapp1.1\JoiningWithLambda.csprojResolveAssemblyReference.cache
